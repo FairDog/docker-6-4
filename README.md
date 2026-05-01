@@ -62,7 +62,7 @@ Docker Compose — это инструмент для определения и 
 3. Настройте использование контейнерами одной сети.
 4. Запустите сценарий в `detached` режиме.
 
-*Тут должен быть приложенный скриншот*
+![Команда detached](screenshots/image2.png)
 
 **Ссылка на файл [docker-compose.yml](./docker-compose.yml)**
 
@@ -89,9 +89,9 @@ docker-compose.yml целиком;
 
 **Ссылка на файл [docker-compose.yml](./docker-compose.yml)**
 
-*Скриншот*
+![Команда ps](screenshots/image1.png)
 
-*Скриншот*
+![График](screenshots/image4.png)
 
 
 
@@ -104,7 +104,7 @@ docker-compose.yml целиком;
 
 В качестве решения приложите скриншот консоли с проделанными действиями.
 
-*Тут приложен скриншот*
+![Скриншот с консоли](screenshots/image1.png)
 
 
 
